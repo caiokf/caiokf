@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hey, I'm Caio 👋
 
-<!--
-**caiokf/caiokf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer on the Sunshine Coast, Australia.
 
-Here are some ideas to get you started:
+🏗️ Architecture & system design </br>
+⚡ Event-driven systems </br>
+🤖 AI engineering </br>
+👥 Engineering teams </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏃 Trails </br>
+🏖️ Beach </br>
+🏎️ Sim racing </br>
+
+[![dev.caiokf.com](https://img.shields.io/badge/dev.caiokf.com-3d8a8a?style=flat-square)](https://dev.caiokf.com)
