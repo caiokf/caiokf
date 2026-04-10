@@ -6,8 +6,6 @@ I specialise in **event-driven architectures**, **domain-driven design**, and **
 
 **Domains:** fintech, travel, edu-tech, bill payments, credit decisioning, user growth, hospital management, e-commerce, stock exchange systems
 
-**Stack:** TypeScript, C#, Go, Python, Ruby | React, Node.js | AWS, GCP | Pulumi, Terraform | Event Sourcing, CQRS, DDD
-
 Currently exploring how LLMs change the way we design and reason about software architecture.
 
 [![dev.caiokf.com](https://img.shields.io/badge/dev.caiokf.com-3d8a8a?style=flat-square)](https://dev.caiokf.com)
