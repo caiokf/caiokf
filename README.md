@@ -10,8 +10,4 @@ I specialise in **event-driven architectures**, **domain-driven design**, and **
 
 Currently exploring how LLMs change the way we design and reason about software architecture.
 
-### Featured
-
-- **[Forge](https://github.com/caiokf/forge)** — Claude Code plugin for architecture discovery and modeling. Facilitates Event Storming, Event Modeling, DDD bounded context mapping, C4 documentation, and Residuality Theory sessions.
-
 [![dev.caiokf.com](https://img.shields.io/badge/dev.caiokf.com-3d8a8a?style=flat-square)](https://dev.caiokf.com)
