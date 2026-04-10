@@ -4,7 +4,7 @@ Software engineer on the Sunshine Coast, Australia. 20 years building software a
 
 I specialise in **event-driven architectures**, **domain-driven design**, and **scaling engineering teams**. Most of my career has been at the intersection of hands-on architecture and technical leadership — designing event-sourced systems, leading platform migrations, and helping teams ship with confidence.
 
-**Domains:** bill payments, credit decisioning, user growth, hospital management, e-commerce, stock exchange systems
+**Domains:** fintech, travel, edu-tech, bill payments, credit decisioning, user growth, hospital management, e-commerce, stock exchange systems
 
 **Stack:** TypeScript, C#, Go, Python, Ruby | React, Node.js | AWS, GCP | Pulumi, Terraform | Event Sourcing, CQRS, DDD
 
