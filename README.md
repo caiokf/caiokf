@@ -1,14 +1,17 @@
-### Hey, I'm Caio 👋
+# Caio Kinzel Filho
 
-Software engineer on the Sunshine Coast, Australia.
+Software engineer on the Sunshine Coast, Australia. 20 years building software across fintech, enterprise, and startups.
 
-🏗️ Architecture & system design </br>
-⚡ Event-driven systems </br>
-🤖 AI engineering </br>
-👥 Engineering teams </br>
+I specialise in **event-driven architectures**, **domain-driven design**, and **scaling engineering teams**. Most of my career has been at the intersection of hands-on architecture and technical leadership — designing event-sourced systems, leading platform migrations, and helping teams ship with confidence.
 
-🏃 Trails </br>
-🏖️ Beach </br>
-🏎️ Sim racing </br>
+**Domains:** bill payments, credit decisioning, user growth, hospital management, e-commerce, stock exchange systems
+
+**Stack:** TypeScript, C#, Go, Python, Ruby | React, Node.js | AWS, GCP | Pulumi, Terraform | Event Sourcing, CQRS, DDD
+
+Currently exploring how LLMs change the way we design and reason about software architecture.
+
+### Featured
+
+- **[Forge](https://github.com/caiokf/forge)** — Claude Code plugin for architecture discovery and modeling. Facilitates Event Storming, Event Modeling, DDD bounded context mapping, C4 documentation, and Residuality Theory sessions.
 
 [![dev.caiokf.com](https://img.shields.io/badge/dev.caiokf.com-3d8a8a?style=flat-square)](https://dev.caiokf.com)
